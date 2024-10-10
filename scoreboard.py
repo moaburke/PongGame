@@ -19,7 +19,7 @@ FONT_LARGE = ("Courier", 46, "normal") # Font for the mail score display
 FONT_MEDIUM = ("Courier", 36, "normal") # Font for the mail score display
 FONT_SMALL = ("Courier", 18, "normal") # Font for the small messages
 FONT_SMALLEST = ("Courier", 12, "normal") # Font for the small messages
-FONT_COLOR = "white"
+FONT_COLOR = "white" # Font color for all text
 
 # Score game constants
 WIN_SCORE = 10 # Score needed to win the game
