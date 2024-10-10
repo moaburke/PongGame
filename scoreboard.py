@@ -22,9 +22,9 @@ FONT_SMALLEST = ("Courier", 12, "normal") # Font for the small messages
 FONT_COLOR = "white"
 
 # Score game constants
-WIN_SCORE = 1 # Score needed to win the game
+WIN_SCORE = 10 # Score needed to win the game
 START_SCORE = 0 # Initial score for both players
-SCORE_INCREMENT = 1
+SCORE_INCREMENT = 1 # Score increment value for each point scored by a player
 
 # Scoreboard position constants
 SCORE_POSITION = (0, 220) # Position for the score
