@@ -3,6 +3,9 @@
 ## Description
 This is a simple Pong game implemented using Python's Turtle graphics module. The game allows two players to control paddles and compete to score points by hitting a ball back and forth. The first player to reach the winning score wins the game. The game keeps track of scores anddisplays a winner when a player reaches a specified score.
 
+![game_mode](game_mode.png)
+![game_over_mode](game_over_mode.png)
+
 ## Features
 ### Ball Class
 - Handles ball movement across the screen.
