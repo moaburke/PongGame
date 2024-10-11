@@ -30,7 +30,7 @@ To run this project, ensure you have Python installed on your computer. You can 
 ### Clone the Repository
 ```bash
 git clone https://github.com/moaburke/PongGame.git
-cd pong-game
+cd PongGame
 ```
 
 ## Usage
